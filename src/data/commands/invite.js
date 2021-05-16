@@ -12,7 +12,7 @@ module.exports = {
             .setColor(process.env.COLOR)
             .setAuthor("Links", client.user.displayAvatarURL())
             .setTimestamp()
-            .setDescription(`[Invite](${client.inviteURL} "Click on this to invite me to your server!") me to your server, and also make sure you join our [Support Server](https://discord.gg/DFpvmnRp6U)`)
+            .setDescription(`[Invite](${client.inviteURL} "Click on this to invite me to your server!") me to your server, and also make sure you join our [Support Server](https://discord.gg/DFpvmnRp6U "Discord Server")`)
         })
     }
 }
