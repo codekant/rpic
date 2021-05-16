@@ -1,4 +1,6 @@
 const Discord = require("discord.js");
+const moment = require("moment");
+require("moment-duration-format");
 module.exports = {
     info: {
         name: "stats",
@@ -15,6 +17,7 @@ module.exports = {
             **Websocket**
             Latency - \`${client.ws.ping}ms\`
             Shards - \`${client.ws.shards.size} shards\`
+            Uptime - \`${moment.duration(client.uptime).format("DD:HH:mm:ss")}\`
             
             **Counters**
             Guilds - \`${client.guilds.cache.size}\`
