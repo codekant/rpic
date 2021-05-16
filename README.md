@@ -1,5 +1,5 @@
 # Rpic Discord Bot
-<img src="https://raw.githubusercontent.com/codekant/rpic/master/src/raw/images/amogus.png" width="20" height="20"> A simple discord truth or dare bot!
+<img src="https://raw.githubusercontent.com/codekant/rpic/master/src/raw/images/amogus.png" height="20"> A simple discord truth or dare bot!
 
 ### Getting started 
 * Install the zip file, and extract it or whatever.
