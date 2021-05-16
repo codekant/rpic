@@ -44,6 +44,7 @@ module.exports = {
             .addField("Game", commands.filter(o => o.info.category == "game").map(o => `\`${o.info.name}\``).join(", "))
             .addField("Random", commands.filter(o => o.info.category == "random").map(o => `\`${o.info.name}\``).join(", "))
             .setColor(process.env.COLOR)
+            .setFooter("'help {command}' should give more details on that command/alias.")
             .setThumbnail(client.user.displayAvatarURL())
         })
     }
