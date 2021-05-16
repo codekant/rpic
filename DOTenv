@@ -1,0 +1,17 @@
+# Rename this file from DOTenv to .env to get it working.
+# This is an Environment file. If false data is provided here, code might not work.
+
+# PORT that you want the server to listen on.
+PORT=80
+
+# Discord Bot's Token
+DISCORD_TOKEN=PUT_YOUR_BOT_TOKEN_HERE
+
+# Bot's Prefix. Ex: "rpic ping"
+PREFIX=rpic
+
+# Owners of the bot, for multiple separate by a comma ","
+OWNERS=ID1,ID2
+
+# Embed Color for this bot.
+COLOR=#fffefc
