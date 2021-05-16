@@ -16,3 +16,5 @@ This project is licensed under the MIT License
 [codekant](https://github.com/codekant) 
 <br>
 [website](https://kant.gq)
+<br>
+[live demo](https://discord.com/api/oauth2/authorize?client_id=619490565154668546&permissions=67161152&scope=bot)
