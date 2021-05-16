@@ -12,11 +12,11 @@
 ### License
 This project is licensed under the MIT License
 
-### Author
-[codekant](https://github.com/codekant) 
+### Links
+[Codekant](https://github.com/codekant "Author") 
 <br>
-[website](https://kant.gq)
+[Website](https://kant.gq/ "Author Website")
 <br>
-[live demo](https://discord.com/api/oauth2/authorize?client_id=619490565154668546&permissions=67161152&scope=bot)
+[Live Demo](https://discord.com/api/oauth2/authorize?client_id=619490565154668546&permissions=67161152&scope=bot "OAuth2 Invite Link")
 <br>
-[discord](https://discord.gg/DFpvmnRp6U)
+[Discord](https://discord.gg/DFpvmnRp6U "Discord Server")
