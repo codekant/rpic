@@ -1,2 +1,2 @@
-worker: echo "I'm Starting!"
-web: npm start
+worker: npm start
+web: echo "I hate heroku"
