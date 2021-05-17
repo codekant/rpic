@@ -24,6 +24,7 @@ client.tip = function() {
 
 const app = express();
 app.use(require('./router/app'));
+app.use("/api", require('./router/api'))
 app.listen((process.env.PORT || 80), function() {
     console.log("[SERVER] Listening on PORT " + process.env.PORT || 80);
 });
